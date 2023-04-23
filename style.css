@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 20px;
+}
+
+.table1 {
+    border-collapse: collapse;
+    width: 80%;
+}
+
+.table1 th {
+    border: 1px solid orange;
+    padding: 20px;
+}
+.table1 td {
+    border: 1px solid orange;
+    padding: 20px;
+}
+
+
+
+.orange {
+    background: orange;
+    font-family: Roboto, sans-serif ;
+}
+.oranged {
+    background: rgb(236, 153, 58);
+    font-family: Roboto, sans-serif ;
+}
+
+.violet {
+    background: rgb(78, 35, 78);
+    color: white;
+    font-family: Roboto, sans-serif ;
+}
+
+button {
+    width: 232px;
+    height: 25px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+input {
+    width: 232px;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding-left: 5px;
+}
+
